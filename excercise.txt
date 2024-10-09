@@ -1,0 +1,21 @@
+1. Explain what the terminal is in your own words. 
+
+{The terminal is where you type commands into the command line}
+
+2. What is the major difference between Git and GitHub? 
+
+{Git is a free and open source version control system} {Github is where you host your repository online}
+
+3.  What are the steps to fork a GitHub repository?
+
+ 1. Explain what the terminal is in your own words. {The terminal is where you type commands into the command line}
+2. What is the major difference between Git and GitHub? {Git is a free and open source version control system} {Github is where you host your repository online}
+3.  What are the steps to fork a GitHub repository?
+
+1: On GitHub, navigate to the octocat/Spoon-Knife repository.
+2: In the top-right corner of the page, click Fork
+3: Under “Owner,” select the dropdown menu and click an owner  for the forked repository.
+4. By default, forks are named the same as their upstream repositories. Optionally, to further distinguish your fork, in the “Repository name” field, type a name.
+5: Optionally, in the “Description” field , type a description of your fork.
+6: Optionally, select Copy the DEFAULT branch only.
+7: Click Create fork.
